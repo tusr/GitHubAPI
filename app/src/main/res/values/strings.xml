@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubAPI</string>
+    <string name="desc">This app provides Github user info  \nbased on the\ username.
+                           \n This app is made for practice by\n Tushar Mahale </string>
+</resources>
